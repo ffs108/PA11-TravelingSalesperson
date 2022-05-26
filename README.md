@@ -1,3 +1,7 @@
+This project takes the "traveling salesman problem" and approaches it in two ways: heuristically and via backtracking. Below are different runtimes(may vary by machine)
+that highlight the times in a comparable fashion between the two approaches and my
+own. More details are below the results. This was done for CSC210 - Software Development
+
 "big11.mtx" - Results
 =========================================================
 Run 1
