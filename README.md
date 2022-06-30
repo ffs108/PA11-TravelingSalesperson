@@ -4,6 +4,7 @@ own. More details are below the results. This was done for CSC210 - Software Dev
 
 "big11.mtx" - Results
 
+======================================================
 Run 1
 
 heuristic: cost = 3.3969307170000005. 1 milliseconds
@@ -12,6 +13,7 @@ mine: cost = 1.3566775349999998. 20 milliseconds
 
 backtrack: cost = 1.3566775349999998. 28 milliseconds
 
+======================================================
 
 
 Run 2
